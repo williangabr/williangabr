@@ -1,8 +1,8 @@
 # 🏂 Willian Gabriel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Back End`**
 
-Me chamo Willian Gabriel, tenho 15 anos e sou do Goiás.  Atualmente, estou fazer o ensino médio no Colégio estadual Rui Barbosa, Eu tenho curso técnico em informática. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[w.dev](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[w.dev](https://www.instagram.com/w.dev_/)".
+Me chamo Willian Gabriel, tenho 15 anos e sou do Goiás.  Atualmente, estou fazer o ensino médio no Colégio estadual Rui Barbosa, Eu tenho curso técnico em informática. Sou apaixonada por tecnologia.
 
 ---
 
