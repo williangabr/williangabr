@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back End`**
 
-Me chamo Willian Gabriel, tenho 15 anos e sou do Goiás.  Atualmente, estou fazer o ensino médio no Colégio estadual Rui Barbosa, Eu tenho curso técnico em informática. Sou apaixonada por tecnologia.
+Me chamo Willian Gabriel, tenho 16 anos e sou do Goiás.  Atualmente, estou fazer o ensino médio no Colégio estadual Rui Barbosa, Eu tenho curso técnico em informática. Sou apaixonada por tecnologia.
 
 ---
 
